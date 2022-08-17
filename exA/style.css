@@ -1,0 +1,35 @@
+*{
+ box-sizing: border-box;
+ padding: 0;
+ margin: 0;
+}
+.conteiner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.result{
+    width: 150px;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+}
+
+body{
+    display: flex;
+    background-color: darkorchid;
+    
+}
+
+header{
+    height: 30%;
+}
+
+main{
+    height: 70%;
+    justify-content: center;
+    align-items: center;
+        
+
+}
